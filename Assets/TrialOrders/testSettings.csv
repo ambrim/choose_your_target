@@ -1,0 +1,6 @@
+AColor,2
+ARotation,15
+SColor,1
+SRotation,75
+ChoiceInstruction,[A] for magenta. [S] for green.
+TrialOrderPath,C:/Users/kimol/Desktop/ChooseYourTarget/LoadIn/testOrders.csv

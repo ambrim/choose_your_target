@@ -1,0 +1,8 @@
+RotationGreen,25
+RotationMagenta,75
+GreenIs3Instruction,[3] for green. [4] for magenta.
+GreenIs4Instruction,[3] for magenta. [4] for green.
+FBDur,2
+HoldTime,0.5
+RandHold,1
+TrialOrderPath,C:/Users/kimol/Desktop/ChooseYourTarget/LoadIn/testOrders.csv

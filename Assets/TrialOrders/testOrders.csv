@@ -1,0 +1,5 @@
+rotations,0,0,0,0,0,0,0,0,0,0,15,15,15,15,75,75,75,75,0,0,0,0
+targetAngles,10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200,210,220
+choices,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+feedbackDelays,0,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+instructionStrings,Move your mouse through the displayed target,,,,,Cursor movement will be delayed by 2 s,,,,,A particular rotation will be applied when the target is magenta.,,,,A different rotation will be applied when the target is green.,,,,You may now choose what rotation you want to counteract. [A] for green. [S] for magenta.,,,
