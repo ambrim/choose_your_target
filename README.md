@@ -1,2 +1,2 @@
 # choose_your_target
-Target aiming experiment 
+Target aiming experiment in Unity.
